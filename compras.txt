@@ -5,3 +5,4 @@ champú 18000
 refresco 8000
 leche 6000
 leche 6000
+leche 6000
