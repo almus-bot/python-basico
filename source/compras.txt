@@ -1,0 +1,8 @@
+carne 30000
+jamón 15000
+detergente 12000
+champú 18000
+refresco 8000
+leche 6000
+leche 6000
+leche 6000
