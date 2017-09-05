@@ -1,4 +1,4 @@
-with open('compras.csv', 'r') as f:
+with open('source/compras.csv', 'r') as f:
 	c = f.readlines()
 
 # eliminando el caracter \n  (nueva línea o enter)
